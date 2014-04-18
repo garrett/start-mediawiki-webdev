@@ -15,7 +15,7 @@ you have Docker set up, skip to the next section.
 [Check out the wonderful Docker docs on the
 subject](http://docs.docker.io/installation/).
 
-### Quick links to installing on commonly used systems
+### Quick links to installing Docker on commonly used systems
 
 * [Fedora](http://docs.docker.io/installation/fedora/)
   (TL;DR: `sudo yum -y install docker-io && sudo systemctl enable docker
