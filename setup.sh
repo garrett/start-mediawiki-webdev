@@ -13,7 +13,7 @@ echo
 chmod a+rwx wiki/data wiki/html
 
 echo
-echo "(If you'd like to install Strapping, run ./install-strapping.sh now.)"
+echo "(If you'd like to install Strapping, run ./install-strapping.sh after creating LocalSettings.php.)"
 echo 
 echo "Run ./start-mediawiki.sh to start your MediaWiki development server..."
 echo
