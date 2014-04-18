@@ -14,4 +14,4 @@ echo
 echo Hit \<control-c\> to stop the server.
 echo
 
-docker run -p $PORT:80 -v $PWD/$LOCAL_DIR:/var/www/ garrett/webdev-simple
+docker run -p $PORT:80 -v $PWD/$LOCAL_DIR:/var/www/ garrett/simple-webdev
